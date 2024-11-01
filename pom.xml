@@ -23,12 +23,13 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.example.demo.Main</mainClass>
+                    <mainClass>edu.icet.Main</mainClass>
                     <executable>true</executable>
                 </configuration>
             </plugin>
         </plugins>
     </build>
+
 
     <dependencies>
 
